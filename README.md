@@ -1,5 +1,6 @@
 Authors: Ara-Oluwa Jacob, Olivia McClam
-Contributors: Swarthmore CS Department, 
+
+Contributors: Swarthmore CS Department
 
 About: Imagine reading a large PDF document, such as a textbook, and you want to find the most relevant pages where priority queues are described. 
 A typical search tool in a PDF reader will tell you where your search term appears in order of page number, but this might not be what you want.
